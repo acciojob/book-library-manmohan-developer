@@ -17,6 +17,7 @@ body{
 }
 .price{
     text-align:center;
+	color:#ffffff;
 	background-color:#2ecc71;
 	padding:5px;
 }
@@ -25,7 +26,7 @@ img{
   margin: 0 auto;         /* left-right auto margin deta hai */
   width: 300px;    
 }
-h3{
+h2{
 	margin:0;
 }
 p{
